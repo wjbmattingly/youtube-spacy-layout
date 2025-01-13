@@ -17,12 +17,12 @@
 
 [![thumbnail](https://img.youtube.com/vi/gDVbXEKiNmE/maxresdefault.jpg)](https://www.youtube.com/watch?v=gDVbXEKiNmE)
 
-LongDescription
+This tutorial demonstrates how to use spaCy Layout, a powerful extension that combines layout detection, OCR, and NLP capabilities into a streamlined spaCy pipeline. Learn how to extract and analyze text from documents while preserving spatial information and document structure.
 
 # Installation
 
 ```bash
-git clone github.com/wjbmattingly/Repo
+git clone github.com/wjbmattingly/youtube-spacy-layout
 ```
 
 # Quick Code

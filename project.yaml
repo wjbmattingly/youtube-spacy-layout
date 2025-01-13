@@ -1,14 +1,14 @@
 project:
-  name: Project
-  repo: Repo
+  name: youtube-spacy-layout
+  repo: github.com/wjbmattingly/youtube-spacy-layout
   level: Intermediate
-  long_description: LongDescription
-  short_description: ShortDescription
+  long_description: This tutorial demonstrates how to use spaCy Layout, a powerful extension that combines layout detection, OCR, and NLP capabilities into a streamlined spaCy pipeline. Learn how to extract and analyze text from documents while preserving spatial information and document structure.
+  short_description: Learn how to use spaCy Layout for document processing with OCR and NLP
   video:
-    video_title: Title
+    video_title: Getting Started with spaCy Layout - Document Processing Made Easy
     video_url: https://www.youtube.com/watch?v=gDVbXEKiNmE
     image_url: https://img.youtube.com/vi/gDVbXEKiNmE/maxresdefault.jpg
-    video_date: Date
+    video_date: 2025
   authors:
   - name: William J.B. Mattingly
 dependencies:
